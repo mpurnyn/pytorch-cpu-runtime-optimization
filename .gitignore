@@ -1,0 +1,6 @@
+/.vscode/
+.DS_Store
+/bazel-*
+/src/build
+model.pt
+/backup_files
